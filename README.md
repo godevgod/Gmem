@@ -45,6 +45,8 @@ The shared memory name (ShareMemory) is crucial for the inter-process communicat
 Proper error handling is implemented to avoid issues during file mapping and memory mapping operations.
 This example provides a basic demonstration of using shared memory for inter-process communication in Go. It can be extended or modified for more complex data structures and use cases.
 
+Buy me a coffee ^_^
+
 ![Bitcoin QR Code](https://github.com/godevgod/foreverrun/blob/main/1CbE3SsUcvJWZ2YNaDwUj9AQtT8k4AGmLe.png?raw=true)
 ### Bitcoin:1CbE3SsUcvJWZ2YNaDwUj9AQtT8k4AGmLe
 ```bash
